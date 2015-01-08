@@ -1,0 +1,275 @@
+    1  paging file nnn:more nnn
+    2  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    3  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    4  sudo apt-get install gdebi-core
+    5  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    6  ps
+    7  cksum ooo.txt
+    8  cksum mmm.txt
+    9  Cmp mmm.txt nnn.txt
+   10  $date
+   11  Vi nnn
+   12  vi nnn
+   13  exit vi
+   14  exit vi : x
+   15  i
+   16  #!/bin/bash
+   17  ls
+   18  #!/bin/bash pwd
+   19  nano test.sh
+   20  ls
+   21  vi test.sh 
+   22  ./test.sh
+   23  chmod 777 test.sh 
+   24  ./test.sh
+   25  what is your name
+   26  echo what is your name
+   27  ./test.sh
+   28  nano test.sh
+   29  chmod +x test.sh
+   30  ./test.sh
+   31  nano test.sh
+   32  chmod +x test.sh
+   33  ./test.sh
+   34  nano test.sh
+   35  chmod +x test.sh
+   36  ./test.sh
+   37  nano test.sh
+   38  chmod +x test.sh
+   39  ./test.sh
+   40  nano test.sh
+   41  chmod test.sh
+   42  ./test.sh
+   43  nano te3st.h
+   44  nano test.h
+   45  nano test.sh
+   46  chmod +x test.h
+   47  ./test.sh
+   48  nano test.sh
+   49  chmod +x test.sh
+   50  ./test.sh
+   51  nano test.sh
+   52  chmod +x test.sh
+   53  ./test.sh
+   54  nano test.sh
+   55  chmod +x test.sh
+   56  ./test.sh
+   57  nano test.sh
+   58  chmod +x test.sh
+   59  ./test.sh
+   60  nano test.sh
+   61  y
+   62  nano test.sh
+   63  chmod +x test.sh
+   64  ./test.sh zara is 10 years old
+   65  nao test.sh
+   66  nano test.sh
+   67  chmod +x test.sh
+   68  ./test.sh
+   69  chmod +x test.sh
+   70  ./test.sh zara is 10 yrs old
+   71  echo $?
+   72  nano surbh.sh
+   73  chmod +x surbh.sh
+   74  ./surbh.sh
+   75  nano test.sh
+   76  nano p.sh
+   77  chmod +x p.sh
+   78  ./p.sh
+   79  nano p.sh
+   80  chmod +p.sh
+   81  chmod +x p.sh
+   82  ./p.sh
+   83  nano q.sh
+   84  chmod +x q.sh
+   85  ./q.sh
+   86  nano q.sh
+   87  ./q.sh
+   88  chmod +x q.sh
+   89  ./q.sh
+   90  vim m.sh
+   91  help vim
+   92  man vim
+   93  vi practice
+   94  nano m.sh
+   95  chmod +x m.sh
+   96  ./m.sh
+   97  nano a.sh
+   98  mkdir priyanka
+   99  mkdir prinka
+  100  cd prinka a
+  101  mkdir p
+  102  nano forloop.sh
+  103  chmod +x forloop.sh
+  104  ./forloop.sh
+  105  nano forloop.sh
+  106  ./forloop.sh
+  107  nano nesting.sh
+  108  ./nesting.sh
+  109  chmod +x nesting.sh 
+  110  ./nesting.sh
+  111  y
+  112  nano substitution.sh
+  113  chmod +x substitution.sh
+  114  ./substitution.sh
+  115  ls -al ~/.ssh
+  116  cd priyanka
+  117  ls -al ~/.ssh
+  118  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  119  ls
+  120  ssh-keygen -lf ~/.ssh/id_rsa.pub
+  121  ssh-keygen -lf /path/to/ssh/key
+  122  sudo apt-get update
+  123  sudo apt-get install git
+  124  git install
+  125  git
+  126  ls -al ~/.ssh
+  127  ssh-keygen -t rsa -C "your_email@example.com"
+  128  ls -al ~/.ssh
+  129  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  130  cat ~/.ssh/id_rsa.pub
+  131  ssh -T git@github.com
+  132  cd priyanka
+  133  vi practice.txt
+  134  git init
+  135  git add .
+  136  git commit -m "first commit"
+  137  git remote add origin https://github.com/bhutanipriyanka/newgroup2.git
+  138  git push -u origin master
+  139  0git commit -m "first commit"
+  140  git commit -m "first commit"
+  141  git remote add origin https://github.com/bhutanipriyanka/newgroup2.git
+  142  git push -u origin master
+  143  cd priyanka
+  144  vi practice1.txt
+  145  git init
+  146  git add .
+  147  git commit-m "first commit"
+  148  git commit -m "first commit"
+  149  git remote add origin https://github.com/bhutanipriyanka/newgroup3.git
+  150  git push -u origin master
+  151  vi plvi.txt
+  152  git init
+  153  git add .
+  154  git commit -m "first commit"
+  155  git config --global user.email "priyanka.bhutani@berlsystems.com"
+  156  git config --global user.name "bhutanipriyanka"
+  157  git remote add origin https://github.com/bhutanipriyanka/newgroup4.git
+  158  git push -u origin master
+  159  git status
+  160  git commit -m "vcim"
+  161  git push -u origin master
+  162  vi open.txt
+  163  git init
+  164  git add .
+  165  git commit -m "first1"
+  166  git push -u origin master
+  167  /priyankagrep/
+  168  /priyanka/grep
+  169  cd priyanka
+  170  grep
+  171  grep help
+  172  grep maqn
+  173  grep man
+  174  git log
+  175  cd practice1
+  176  mkdir practice1
+  177  cd practice1
+  178  https://github.com/bhutanipriyanka
+  179  https://github.com/bhutanipriyanka/newgroup
+  180  git clone https://github.com/bhutanipriyanka/newgroup
+  181  nano test.sh
+  182  chmod +x test.sh
+  183  ./test.sh
+  184  nano test.sh
+  185  chmod +x test.sh
+  186  nano test.sh
+  187  y
+  188  chmod +x test.sh
+  189  ./test.sh
+  190  ./test.sh zaRA ALI
+  191  rmdir ssh
+  192  mv nesting practice1
+  193  mv nesting.txt practice1
+  194  rm nnn
+  195  rm forloop
+  196  rm forloop.sh
+  197  rmdir newa
+  198  cd p1
+  199  cd practicefolder1
+  200  git init
+  201  git add .
+  202  git commit -m "first baic looping programs"
+  203  git push -u origin master
+  204  git commit -m "firstprogram"
+  205  git push -u origin master
+  206  git remote add origin https://github.com/bhutanipriyanka/practice1.git
+  207  git push -u origin master
+  208  git init
+  209  git add.
+  210  git add .
+  211  git init
+  212  git add .
+  213  git commit -m "firstprogram"
+  214  git push -u origin master
+  215  /home/bsuser1/practicefolder1/subprograms/basic command
+  216  home/bsuser1/practicefolder1/subprograms/basic command execution
+  217  cd home/bsuser1/practicefolder1/subprograms/basic command
+  218  cd practicefolder1
+  219  cd basic command
+  220  cd praqcticefolder1 basic command
+  221  ls
+  222  cd subprograms
+  223  cd basic commands
+  224  cd basiccommands
+  225  git status
+  226  cd ..
+  227  cd practice1
+  228  git clone https://github.com/h4/javascript-patterns/blob/master/code-reuse-patterns/borrowing-methods.html
+  229  git clone https://github.com/h4/javascript-patterns/tree/master/code-reuse-patterns
+  230  cd new1
+  231  git clone
+  232  git clone https://github.com/h4/javascript-patterns
+  233  clear
+  234  cd..
+  235  cd ..
+  236  ls -al ~/.ssh
+  237  ssh-keygen -t rsa -C "surbhi.singh@berylsystems.com"
+  238  ls -al ~/.ssh
+  239  ls  ~/.ssh
+  240  cat ~/.ssh/id_rsa.pub
+  241  git reflog
+  242  git help config
+  243  cd priyanka
+  244  cd practicefolder1
+  245  git init
+  246  git add .
+  247  git commit -m "first commit"
+  248  git remote add origin https://github.com/bhutanipriyanka/practice2.git
+  249  git pull
+  250  git push -u origin master
+  251  git init
+  252  git add .
+  253  git commit -m "first commit"
+  254  git remote add origin https://github.com/bhutanipriyanka/practice2.git
+  255  git push -u origin master
+  256  git init
+  257  git add .
+  258  cd ~
+  259  mkdir f1
+  260  cd f1
+  261  vi file1.txt
+  262  git init
+  263  git add .
+  264  git commit -m "first commit"
+  265  git remote add origin https://github.com/bhutanipriyanka/practice2.git
+  266  git push -u origin master
+  267  history
+  268  mkdir touch $(date +"%d-%m-%Y:%T").txt
+  269  touch $(date +"%d-%m-%Y:%T").txt
+  270  cd ..
+  271  touch $(date +"%d-%m-%Y:%T").txt
+  272  history > ~/touch $(date +"%d-%m-%Y:%T").txt
+  273  ls
+  274  touch $(date +"%d-%m-%Y:%T").txt
+  275  history > 08-01-2015:16:20:49.txt
